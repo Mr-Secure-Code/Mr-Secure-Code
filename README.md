@@ -19,7 +19,7 @@
 
 🌱 I am currently learning about <strong>Ethical hacking</strong> and exploring the various <strong>techniques and tools</strong> used in this field.
 
-📝 I write articles on <a href="https://medium.com/@ritesh_sahu">let's learn</a>
+📝 I write articles on <a href="https://medium.com/@riteshs4hu">let's learn</a>
 
 🤖 Making <strong>Tools for Automation</strong> in Cyber Security
 
