@@ -7,7 +7,7 @@
 </div>
 
 <div id="header" align="left">
-  <img src="https://komarev.com/ghpvc/?username=Mr-Secure-Code&style=for-the-badge&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=riteshs4hu&style=for-the-badge&color=blue" alt=""/>
 </div>
 
 
@@ -52,7 +52,7 @@
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Mr-Secure-Code&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=riteshs4hu&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
@@ -62,8 +62,8 @@
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Mr-Secure-Code&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Secure-Code&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=riteshs4hu&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshs4hu&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 
 
@@ -71,4 +71,4 @@
 ### How to reach me :mailbox:
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshs4hu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://x.com/riteshs4hu)  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Mr-Secure-Code)](https://github.com/Mr-Secure-Code)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshs4hu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://x.com/riteshs4hu)  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/riteshs4hu)](https://github.com/riteshs4hu)
